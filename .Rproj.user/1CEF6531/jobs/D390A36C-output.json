@@ -5,3 +5,6 @@
 [1,"\u001B[1mpandoc \u001B[22m\n  to: html\n  output-file: index.html\n  standalone: true\n  toc: true\n  number-sections: false\n  title-prefix: Energy Economics and Energy Policy\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  \n\u001B[1mmetadata\u001B[22m\n  crossref:\n    chapters: true\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  bibliography:\n    - references.bib\n  editor: visual\n  theme: cosmo\n  title: Energy Economics and Energy Policy\n  author: Moinul Islam\n  date: 01/01/2022\n  \n"]
 [1,"Output created: docs/index.html\n\n"]
 [1,"\u001B[32mGET: /\u001B[39m\n"]
+[1,"\u001B[1mpandoc \u001B[22m\n  to: html\n  output-file: index.html\n  standalone: true\n  toc: true\n  number-sections: false\n  title-prefix: Energy Economics and Energy Policy\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  \n\u001B[1mmetadata\u001B[22m\n  crossref:\n    chapters: true\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  bibliography:\n    - references.bib\n  editor: visual\n  theme: cosmo\n  title: Energy Economics and Energy Policy\n  author: Moinul Islam\n  date: 01/01/2022\n  \n"]
+[1,"Output created: docs/index.html\n\n"]
+[1,"\u001B[32mGET: /\u001B[39m\n"]
